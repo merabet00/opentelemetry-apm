@@ -1,4 +1,4 @@
-# OpenTelemetry Application Performance Management
+image# OpenTelemetry Application Performance Management
 
 Monitoring application performance with OpenTelemetry SDK, OpenTelemetry Collector, Prometheus, and Grafana:
 
